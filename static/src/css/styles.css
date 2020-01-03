@@ -1,0 +1,22 @@
+.o_list_number {
+    text-align: center !important;
+}
+.o_list_view .o_column_sortable {
+    white-space: nowrap;
+}
+.table-sm th, .table-sm td {
+    white-space: nowrap;
+}
+.o_form_view .o_field_widget .o_list_view {
+    white-space: nowrap;
+}
+/*th {*/
+    /*white-space: nowrap !important;*/
+/*}*/
+
+/*td {*/
+    /*white-space: nowrap !important;*/
+/*}*/
+/*span{*/
+    /*white-space: nowrap !important;*/
+/*}*/

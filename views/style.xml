@@ -1,0 +1,9 @@
+<odoo>
+    <data>
+        <template id="mc_css" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" href="/mc_css/static/src/css/styles.css"/>
+            </xpath>
+        </template>
+    </data>
+</odoo>
